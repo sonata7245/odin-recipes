@@ -19,7 +19,7 @@ h6 {
     
 }
 
-.center {
+#heading {
     text-align: center;
 }
 
@@ -41,11 +41,6 @@ a {
     gap: 2px;
 }
 
-div img {
-    width: 300px;
-    height: 350px;
-}
-
 .item {
     display: flex;
     flex-direction: column;
@@ -53,4 +48,13 @@ div img {
     align-items: center;
     width: 400px;
     text-align: center;
+}
+
+.nav{
+    justify-content: center;
+}
+
+div img {
+    width: 300px;
+    height: 350px;
 }
