@@ -1,13 +1,11 @@
 @font-face {
-    font-family: 'Boldie';
-    src: url('/assets/font/Boldie.woff2') format('woff2'),
-         url('/assets/font/Boldie.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: "Boldie";
+    src: url("//db.onlinewebfonts.com/t/3d326e4a3753d0f1220967bb7cbc88b7.eot");
+    src: url("//db.onlinewebfonts.com/t/3d326e4a3753d0f1220967bb7cbc88b7.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/3d326e4a3753d0f1220967bb7cbc88b7.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/3d326e4a3753d0f1220967bb7cbc88b7.woff") format("woff"), url("//db.onlinewebfonts.com/t/3d326e4a3753d0f1220967bb7cbc88b7.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/3d326e4a3753d0f1220967bb7cbc88b7.svg#Boldie") format("svg");
 }
 
 html {
-    font-family: 'Boldie',  Helvetica, Tahoma;
+    font-family: 'Boldie', Helvetica, Tahoma;
     background: url(../img/background.png);
     color: White;
     box-sizing: border-box;
