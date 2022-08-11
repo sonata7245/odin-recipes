@@ -1,13 +1,13 @@
 @font-face {
-    font-family: 'heimdalbold';
-    src: url('assets/font/heimdal_bold-webfont.woff2') format('woff2'),
-         url('assets/font/heimdal_bold-webfont.woff') format('woff');
+    font-family: 'Boldie';
+    src: url('/assets/font/Boldie.woff2') format('woff2'),
+         url('/assets/font/Boldie.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 html {
-    font-family: 'heimdalbold',  Helvetica, Tahoma;
+    font-family: 'Boldie',  Helvetica, Tahoma;
     background: url(../img/background.png);
     color: White;
     box-sizing: border-box;
