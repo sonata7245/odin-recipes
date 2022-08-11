@@ -75,20 +75,30 @@ a {
 .left{
     display:flex;
     flex-direction: column;
-    gap 20px;
+    color: black;
+    gap: 20px;
     padding-left: 30px;
     width: 420px;
     height: 1520px;
 }
 
+.ingredients-container{
+    border: 1px solid rgba(118, 218, 60, 0.5);
+    background-color: antiquewhite;
+    color: black;
+    height: 1000px;
+}
+
 .right-top{
     background-color: antiquewhite;
+    color: black;
     border: 1px solid rgba(118, 218, 60, 0.5);
     height: 500px;
 }
 
 .directions-container{
     background-color: antiquewhite;
+    color: black;
     margin-top: 20px;
     border: 1px solid rgba(118, 218, 60, 0.5);
     height: 1000px;
