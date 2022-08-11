@@ -47,6 +47,7 @@ a {
 
 .content {
     margin-top: 10px;
+    gap: 40px;
 }
 
 .front-content {
