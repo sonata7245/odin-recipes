@@ -1,4 +1,10 @@
-@import url(//db.onlinewebfonts.com/c/1d2acf91f9da46394e2e933f73dc5109?family=Heimdal);
+@font-face {
+    font-family: 'heimdalbold';
+    src: url('assets/font/heimdal_bold-webfont.woff2') format('woff2'),
+         url('assets/font/heimdal_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 html {
     font-family: 'heimdalbold', sans-serif;
