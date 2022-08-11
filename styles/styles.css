@@ -73,8 +73,6 @@ a {
 }
 
 .left{
-    display:flex;
-    flex-direction: column;
     color: black;
     gap: 20px;
     padding-left: 30px;
@@ -93,7 +91,7 @@ a {
     background-color: antiquewhite;
     color: black;
     border: 1px solid rgba(118, 218, 60, 0.5);
-    height: 350px;
+    height: 348px;
 }
 
 .directions-container{
